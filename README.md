@@ -1,6 +1,6 @@
 # Détecteur de Mouvement avec Raspberry Pi et Caméra
 
-Ce projet utilise un **Raspberry Pi**, un **capteur de mouvement PIR** et une **caméra** pour détecter les mouvements et capturer des images automatiquement.
+Ce projet utilise un Raspberry Pi, un capteur de mouvement PIR et une caméra pour détecter les mouvements et capturer des images automatiquement.
 
 ## Matériel requis
 - Raspberry Pi (Modèle 4B ou autre)
