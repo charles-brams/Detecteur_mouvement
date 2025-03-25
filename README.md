@@ -20,5 +20,5 @@ Ce projet utilise un Raspberry Pi, un capteur de mouvement PIR et une caméra po
 ## Sauvegarde des images
 Les images capturées seront stockées dans le dossier où se trouve le script.
 
-**Le code** : [Lien vers le code](https://github.com/charles-brams/Detecteur_mouvement/blob/main/Code_detecteur_mouvement)
+**Le code** : [Lien vers le code](https://github.com/charles-brams/Detecteur_mouvement/blob/main/Code_detecteur_mouvement.py)
 
