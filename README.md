@@ -15,7 +15,7 @@ Ce projet utilise un Raspberry Pi, un capteur de mouvement PIR et une caméra po
 
 ## Utilisation
 1. Lorsqu'un mouvement est détecté, une photo est prise et sauvegardée sous le nom **IMG_YYYYMMDD-HHMMSS.jpg**.
-2. Le programme continue la surveillance jusqu'à interruption.
+2. Le programme continue la surveillance jusqu'à l'interruption de l'utilisateur.
 
 ## Sauvegarde des images
 Les images capturées seront stockées dans le dossier où se trouve le script.
